@@ -36,7 +36,6 @@ namespace GUI_Simple
             // Form
             this.Text = "Gestión de Contactos";
             this.Size = new Size(400, 460);
-            this.StartPosition = FormStartPosition.CenterScreen;
 
             // Label
             lblTitle = new Label();
